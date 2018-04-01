@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ShareMarks
-feature-img: "img/sample_feature_img.png"
+feature-img: "img/MarksFeature.png"
 thumbnail-path: "img/ShareMarks.png"
 short-description: ShareMarks is a quick and easy bookmark sharing website.
 
