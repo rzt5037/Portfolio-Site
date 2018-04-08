@@ -2,10 +2,10 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "img/color.png"
+feature-img: "img/email.png"
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Question? Comment? Request? Send a message and I'll be sure to check it out.
 
 <form action="https://getsimpleform.com/messages?form_api_token=842f7013c6bf9b6553b71d5634858d76" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
