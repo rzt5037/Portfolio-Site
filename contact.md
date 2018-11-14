@@ -13,13 +13,5 @@ Question? Comment? Request? Send a message and I'll be sure to check it out.
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
-  <script>
-    grecaptcha.ready(function() {
-    grecaptcha.execute('6LeEw3oUAAAAAGh8yLfVyso6gPSrgdTt7w33Pcfc', {action: 'action_name'})
-    .then(function(token) {
-    // Verify the token on the server.
-    });
-    });
-  </script>
   <input type='submit' value='Send Message' />
 </form>
